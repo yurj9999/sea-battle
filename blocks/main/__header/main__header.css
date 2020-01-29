@@ -1,0 +1,11 @@
+.main__header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    border-radius: 50px;
+    border-top: 4px double #0756b0; 
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 20px;
+    color: #000;
+}

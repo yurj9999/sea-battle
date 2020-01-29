@@ -1,0 +1,6 @@
+@import url("./__title/user__title.css");
+@import url("./__wrapper/user__wrapper.css");
+
+.content__user{
+    width: 50%;
+}

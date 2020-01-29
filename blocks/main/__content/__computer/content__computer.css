@@ -1,0 +1,7 @@
+@import url("./__title/computer__title.css");
+@import url("./__wrapper/computer__wrapper.css");
+
+.content__computer{
+    width: 50%;
+    border-right: 5px solid #000;
+}

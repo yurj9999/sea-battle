@@ -1,0 +1,6 @@
+@import url("./__square/computer__square.css");
+
+.computer__wrapper{
+    display: flex;
+    justify-content: space-around;
+}

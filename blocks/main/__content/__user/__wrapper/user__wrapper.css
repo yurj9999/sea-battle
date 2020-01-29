@@ -1,0 +1,6 @@
+@import url("./__square/user__square.css");
+
+.user__wrapper{
+    display: flex;
+    justify-content: space-around;
+}

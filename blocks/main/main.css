@@ -1,0 +1,8 @@
+@import url("./__header/main__header.css");
+@import url("./__content/main__content.css");
+@import url("./__footer/main__footer.css");
+
+.main{
+    width: 95%;
+    margin: 10px auto;
+}

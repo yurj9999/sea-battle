@@ -1,0 +1,8 @@
+@import url("./__computer/content__computer.css");
+@import url("./__user/content__user.css");
+
+.main__content{
+    display: flex;
+    height: 480px;
+    padding: 10px;
+}
